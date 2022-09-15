@@ -5,4 +5,4 @@ This Project do all the implementations or functionalities of the online library
 system developed by us which is similar to the contemporary website being used in our
 IIT-Indore campus.
 
-This Proect Uses ```SQL``` based database.
+This Project Uses ```SQL``` based database.
